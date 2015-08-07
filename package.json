@@ -1,0 +1,22 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.coffee",
+  "scripts": {
+    "watch": "coffee -wc --no-header -o build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smirea/screeps.git"
+  },
+  "author": "Stefan Mirea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smirea/screeps/issues"
+  },
+  "homepage": "https://github.com/smirea/screeps",
+  "dependencies": {
+    "grunt-screeps": "^1.1.0"
+  }
+}
